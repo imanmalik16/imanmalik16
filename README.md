@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 Hello! My name is Iman Malik and I am a Statistics & Data Science major at the University of Texas at Austin. I am also pursuing a minor in Business along with the Programming and Computation certificate. I have a strong foundation in Python (Pandas, NumPy, SciKit-Learn), R, and SQL, with which I can analyze, visualize, and manipulate data. I use these skills to build predictive models and interpret complex trends, and I am looking forward to applying them to real-world opportunities to gain industry experience!
 
