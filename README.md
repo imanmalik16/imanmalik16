@@ -6,4 +6,4 @@ Check out my Movie Recommendation project, in which I used Python libraries to a
 
 Check out my Titanic project, where I used Python libraries for exploratory data analysis, feature engineering, preprocessing, and data analysis to build a prediction model.
 
-My Incarceration Records analysis is a class project I completed in which I used R for cleaning, wrangling, and analyzing a real big data set. I produced my report using R markdown. Additionally, I created a Shiny app where the user can interact with multiple variables.
+My Incarceration Records analysis is a class project I completed in which I used R for cleaning, wrangling, and analyzing a real big data set to interpret relationships and complex trends. I produced my report using R markdown. Additionally, I created a Shiny app where the user can interact with multiple variables.
